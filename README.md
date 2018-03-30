@@ -14,9 +14,9 @@
  - 本科/广州中医药大学医学信息工程学院 
  - 专业：计算机科学与技术
  - 微博：[@喜欢书的女孩](http://www.weibo.com/2956183361/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1) 
- - 简书：[http://www.jianshu.com/u/fe4c5bb1dc75](http://www.jianshu.com/u/fe4c5bb1dc75) 
- - GitHub: 
- [https://github.com/chenxiaoyanemile](https://github.com/chenxiaoyanemile)
+ - [简书](http://www.jianshu.com/u/fe4c5bb1dc75) 
+ - [GitHub](https://github.com/chenxiaoyanemile)
+ - [博客](http://chenxiaoyanemile.github.io/）
 
 ---
 
@@ -49,7 +49,7 @@ IT实习生，负责公司电脑的管理和电脑系统的安装，负责服务
    
    在与 Unity 交互的过程中，出现我无法传递消息给Unity,并且 Unity 也无法成功调用 Android 从后台下载好的文件等问题，通过与 Unity 组员的深度沟通交流，并且建议 Unity 组员在脚本中写好 log，最后通过 log 逐步分析，找出问题的关键在于 Android 存储文件的路径与 Unity 读取文件的路径不一致，并且 Unity 没有对 Android 传输的空 json 数据进行处理，通过我们的共同努力，最后实现了 Android 与 Unity 的交互。
 
-### [暖巢项目](https://github.com/chenxiaoyanemile/MyWarmHome) （2016.11-2017.3） 
+### 暖巢项目（2016.11-2017.3） 
 
 暖巢项目是参加产品设计大赛的项目，该项目赢得了三等奖。在项目中，我负责 android 开发，用墨刀设计的原型，主要功能模块包括首页、活动、分享、消息、个人中心等模块，掌握了 RecyclerView 、 ViewPager、RadioButton等组件的使用。
 
