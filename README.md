@@ -16,7 +16,7 @@
  - 微博：[@喜欢书的女孩](http://www.weibo.com/2956183361/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1) 
  - [简书](http://www.jianshu.com/u/fe4c5bb1dc75) 
  - [GitHub](https://github.com/chenxiaoyanemile)
- - [博客](http://chenxiaoyanemile.github.io/）
+ - [博客](http://chenxiaoyanemile.github.io/)
 
 ---
 
