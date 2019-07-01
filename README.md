@@ -14,7 +14,7 @@
  - 本科/广州中医药大学医学信息工程学院 
  - 专业：计算机科学与技术
  - 微博：[@喜欢书的女孩](http://www.weibo.com/2956183361/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1) 
- - [简书](http://www.jianshu.com/u/fe4c5bb1dc75) 
+ - [简书](https://www.jianshu.com/u/e07b6404358c) 
  - [GitHub](https://github.com/chenxiaoyanemile)
  - [博客](http://chenxiaoyanemile.github.io/)
 
