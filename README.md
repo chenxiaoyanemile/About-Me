@@ -1,4 +1,6 @@
-# About-Me
+# About-Me  
+
+[English](https://github.com/chenxiaoyanemile/About-Me/blob/master/AboutMeEnglish.md)
 
 ---
 # 联系方式
