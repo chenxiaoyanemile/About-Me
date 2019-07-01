@@ -23,8 +23,13 @@
 ---
 
 # 职业清单
+### 广州悦微科技有限公司  2019.02-至今
+android 开发工程师，负责上线 app 九元航空的开发和完善，开发过程中使用了 Git 进行版本控制，熟悉使用 android-async-http 、gson、alipaySdk、pdfviewpager、butterknife、zxing等框架。
 
-### 人英网络（上海）有限公司 2017.12-至今
+### 广州睿新科技有限公司  2018.06-2018.11
+软件技术支持工程师，负责香港西九龙高铁站 HKQ 系统运维，掌握了高铁票务系统的业务规则，熟悉了操作 HKQ 系统和调度命令，增强了定位查找分析问题的能力和书写维护文档。
+
+### 人英网络（上海）有限公司 2017.12-2018.04
 android 开发实习生，独立负责 koko alert 项目的完成，掌握了 FCM 的使用和 filter 的实现。负责欧美上线社交软件 koko 的开发和完善。熟悉Git、 jira、bitbucket、buddybuild、bitrise、gitlab等工作平台，会用 zeplin、sketch等设计软件，学会了反编译 apk, apk 瘦身, ANR 问题分析，Junit 测试,提高了英语口语交流能力。
 
 ### 广州和辰科技有限公司 2017.10-2017.12
