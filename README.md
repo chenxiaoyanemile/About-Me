@@ -15,25 +15,26 @@
  - 陈小燕/女/1995 
  - 本科/广州中医药大学医学信息工程学院 
  - 专业：计算机科学与技术
- - 微博：[@喜欢书的女孩](http://www.weibo.com/2956183361/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1) 
- - [简书](https://www.jianshu.com/u/e07b6404358c) 
+ 
  - [GitHub](https://github.com/chenxiaoyanemile)
  - [博客](http://chenxiaoyanemile.github.io/)
+ - [简书](https://www.jianshu.com/u/e07b6404358c) 
+ 
 
 ---
 
 # 职业清单
 ### 广州悦微科技有限公司  2019.02-至今
-android 开发工程师，负责上线 app 九元航空的开发和完善，开发过程中使用了 Git 进行版本控制，熟悉使用 android-async-http 、gson、alipaySdk、pdfviewpager、butterknife、zxing等框架,新学习使用 flutter。
+android 开发工程师，负责上线 app 九元航空(v1.45 - v1.47)的开发和完善，开发过程中使用了 Git 进行版本控制，熟悉使用 android-async-http 、gson、alipaySdk、pdfviewpager、butterknife、zxing等框架,新学习使用 flutter。
 
 ### 广州睿新科技有限公司  2018.06-2018.11
 软件技术支持工程师，负责香港西九龙高铁站 HKQ 系统运维，掌握了高铁票务系统的业务规则，熟悉了操作 HKQ 系统和调度命令，增强了定位查找分析问题的能力和书写维护文档。
 
 ### 人英网络（上海）有限公司 2017.12-2018.04
-android 开发实习生，独立负责 koko alert 项目的完成，掌握了 FCM 的使用和 filter 的实现。负责欧美上线社交软件 koko 的开发和完善。熟悉Git、 jira、bitbucket、buddybuild、bitrise、gitlab等工作平台，会用 zeplin、sketch等设计软件，学会了反编译 apk, apk 瘦身, ANR 问题分析，Junit 测试,提高了英语口语交流能力,新学习了 kotlin。
+android 开发实习生，独立负责 koko alert 项目的完成，掌握了 FCM 的使用和 filter 的实现。负责欧美上线社交软件 koko (v2.3-v2.5)的开发和完善。熟悉Git、 jira、bitbucket、buddybuild、bitrise、gitlab等工作平台，会用 zeplin、sketch等设计软件，学会了反编译 apk, apk 瘦身, ANR 问题分析，Junit 测试,提高了英语口语交流能力,新学习了 kotlin。
 
 ### 广州和辰科技有限公司 2017.10-2017.12
-android 开发实习生，负责上线 app 阳光租房的开发和完善，开发过程使用 svn 进行版本控制, 掌握了使用本地存储 SharedPreferences 和 SQLite.熟练使用 okhttp, fastjson, eventbus 等框架。
+android 开发实习生，负责上线 app 阳光租房(v1.0)的开发和完善，开发过程使用 svn 进行版本控制, 掌握了使用本地存储 SharedPreferences 和 SQLite.熟练使用 okhttp, fastjson, eventbus 等框架。
 
 ### 欢聚时代 2017.5-2017.9 
 IT实习生，负责公司电脑的管理和电脑系统的安装，负责服务器的系统安装、IP配置和管理、漏洞扫描（Auto）、系统打补丁等，安装过 ubuntu、windows、macOS，会常用的 linux 命令。
@@ -49,6 +50,9 @@ IT实习生，负责公司电脑的管理和电脑系统的安装，负责服务
 ---
 
 # 项目
+### Elite (毕业设计)
+   Elite 是一款用于高校实验室管理项目的 [app](https://github.com/chenxiaoyanemile/elite)
+   
 ### Magic Cup项目（2016.9-2017.3） 
    Magic Cup 项目是一个 AR + 星座杯 组成魔法杯（Magic Cup）的创意型项目。在此项目中我主要负责 Android 的开发，Magic Cup 项目中 Android 开发主要包括二维码扫描登录，AR展示，缓存清除等功能。
    
